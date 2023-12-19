@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dd7mK/JeFy2x5ZDEw1Fj2n06Acqg493t7natHh8U2Jf5MQAjOHUGo4PR/o7OnvD1yR7IsVyXqQZqr8tQSAbVYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zaids\\source\\repos\\LobbyServer\\LobbyServer\\LobbyServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zaids\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",
+    "C:\\Users\\zaids\\.nuget\\packages\\google.protobuf.tools\\3.25.1\\google.protobuf.tools.3.25.1.nupkg.sha512"
+  ],
+  "logs": []
+}

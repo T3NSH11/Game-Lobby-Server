@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Game_Master_Server</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Protobuf" Version="3.25.1" />
+    <PackageReference Include="Google.Protobuf.Tools" Version="3.25.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="LobbyServerMessages">
+      <HintPath>..\..\LobbyServerMessages\LobbyServerMessages\bin\Debug\LobbyServerMessages.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

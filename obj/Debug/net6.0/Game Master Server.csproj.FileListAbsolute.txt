@@ -1,0 +1,19 @@
+C:\Users\zaids\source\repos\Game Master Server\Game Master Server\bin\Debug\net6.0\Game Master Server.exe
+C:\Users\zaids\source\repos\Game Master Server\Game Master Server\bin\Debug\net6.0\Game Master Server.deps.json
+C:\Users\zaids\source\repos\Game Master Server\Game Master Server\bin\Debug\net6.0\Game Master Server.runtimeconfig.json
+C:\Users\zaids\source\repos\Game Master Server\Game Master Server\bin\Debug\net6.0\Game Master Server.dll
+C:\Users\zaids\source\repos\Game Master Server\Game Master Server\bin\Debug\net6.0\Game Master Server.pdb
+C:\Users\zaids\source\repos\Game Master Server\Game Master Server\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\zaids\source\repos\Game Master Server\Game Master Server\bin\Debug\net6.0\LobbyServerMessages.dll
+C:\Users\zaids\source\repos\Game Master Server\Game Master Server\bin\Debug\net6.0\LobbyServerMessages.pdb
+C:\Users\zaids\source\repos\Game Master Server\Game Master Server\obj\Debug\net6.0\Game Master Server.csproj.AssemblyReference.cache
+C:\Users\zaids\source\repos\Game Master Server\Game Master Server\obj\Debug\net6.0\Game Master Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaids\source\repos\Game Master Server\Game Master Server\obj\Debug\net6.0\Game Master Server.AssemblyInfoInputs.cache
+C:\Users\zaids\source\repos\Game Master Server\Game Master Server\obj\Debug\net6.0\Game Master Server.AssemblyInfo.cs
+C:\Users\zaids\source\repos\Game Master Server\Game Master Server\obj\Debug\net6.0\Game Master Server.csproj.CoreCompileInputs.cache
+C:\Users\zaids\source\repos\Game Master Server\Game Master Server\obj\Debug\net6.0\Game Master Server.csproj.CopyComplete
+C:\Users\zaids\source\repos\Game Master Server\Game Master Server\obj\Debug\net6.0\Game Master Server.dll
+C:\Users\zaids\source\repos\Game Master Server\Game Master Server\obj\Debug\net6.0\refint\Game Master Server.dll
+C:\Users\zaids\source\repos\Game Master Server\Game Master Server\obj\Debug\net6.0\Game Master Server.pdb
+C:\Users\zaids\source\repos\Game Master Server\Game Master Server\obj\Debug\net6.0\Game Master Server.genruntimeconfig.cache
+C:\Users\zaids\source\repos\Game Master Server\Game Master Server\obj\Debug\net6.0\ref\Game Master Server.dll
